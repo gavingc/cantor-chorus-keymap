@@ -49,13 +49,14 @@ Shift to either get an 'a' or 'A', or to get Layer 0 or Layer 1. The difference 
 to guard against accidental activation of the hold function (e.g. *TT* = 200 ms), or to allow more
 time to complete multiple tap actions (e.g. *TT* = 400 ms).
 
-Chorus keymap terminology in logical order:
-
-    Tap - rapid press and release (e.g. *t* ≤ 180 ms)
-    *Deliberate* Press - press *slightly* longer and release (e.g. *t* = 180 + *dt* ms)
-    *Deliberate* (guard) Press - press *slightly* longer still and release (e.g. *t* = 200 + *dt* ms)
-    Hold - press and hold while doing another action (e.g. Ctrl + P)
-    Long Hold - press that must be held indefinitely while performing other actions.
+> [!IMPORTANT]
+> Chorus keymap terminology in logical order:
+> 
+> - Tap - rapid press and release (e.g. *t* ≤ 180 ms)
+> - *Deliberate* Press - press *slightly* longer and release (e.g. *t* = 180 + *dt* ms)
+> - *Deliberate* (guard) Press - press *slightly* longer still and release (e.g. *t* = 200 + *dt* ms)
+> - Hold - press and hold while doing another action (e.g. Ctrl + P)
+> - Long Hold - press that must be held indefinitely while performing other actions.
 
 ## Principles to Features
 
@@ -129,8 +130,7 @@ Principles are numbered, features are shown as bullet points:
         - Free keys to use for multimedia etc: mute, vol-, vol plus.
     - Layer 3 - Free to use for multimedia etc.
 
-Notes:
-
-    Inner - Inner for that hand, not the keyboard pair.
-    Outer - Outer for that hand, not the keyboard pair.
-    Left Hand Pinky Bottom Row - Key disabled because it can cause wrist pain, enable if you want it.
+> [!NOTE]
+> - Inner - Inner for that hand, not the keyboard pair.
+> - Outer - Outer for that hand, not the keyboard pair.
+> - Left Hand Pinky Bottom Row - Key disabled because it can cause wrist pain, enable if you want it.
