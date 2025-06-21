@@ -11,6 +11,18 @@ microcontrollers was the Vial fork of Quantum Mechanical Keyboard firmware
 ([Vial-QMK](https://github.com/vial-kb/vial-qmk)). Vial is based on QMK and provides a graphical way
 to configure the keymap. The [Vial](https://get.vial.today/) web and desktop applications were used.
 
+Layer 0 - Letters, Punctuation & Control:
+
+![alt text](resources/Layer0.png)
+
+Layer 1 - Symbols, Arrows & Selection:
+
+![alt text](resources/Layer1.png)
+
+Layer 2 - Number Pad and Function keys:
+
+![alt text](resources/Layer2.png)
+
 ## Impossible
 
 No, this document was typed up using the 42 key Cantor keyboard and the Chorus keymap while
@@ -115,7 +127,7 @@ Principles are numbered, features are shown as bullet points:
             - Retain consistent Ctrl+Shift modifiers also for Selection Layer;
             - Left Alt, for Alt+Tab, Thumb 2 Inner on Hold.
 1. Fast access to more:
-    - Layer 1 - Symbols, Arrows & Selection.
+    - Layer 1 - Symbols, Arrows & Selection:
         - LAYER SELECT, Thumb 1 Inner *Deliberate* Press.
         - Symbols cluster on left hand;
         - Arrows, Home/End, Page Up/Down cluster on right hand;
@@ -123,7 +135,7 @@ Principles are numbered, features are shown as bullet points:
         - Dedicated Cut, Copy, Paste keys.
         - Right Alt, covers Left Alt, because some software like virtual machines use it;
         - Menu, covers GUI, as another variation/option.
-    - Layer 2 - Number Pad and Function keys.
+    - Layer 2 - Number Pad and Function keys:
         - LAYER SELECT, Thumb 1 Outer *Deliberate* Press;
         - Number pad cluster on the left hand if we mouse on the right?
         - Function keys cluster on right hand.
